@@ -1,0 +1,15 @@
+{
+  "name": "raspberry-iot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "repository": "git@github.com:codacy20/raspberry-iot.git",
+  "author": "Amir <amir-rt@live.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^7.0.2",
+    "@commitlint/config-conventional": "13.2.0"
+  }
+}
